@@ -9,3 +9,6 @@ Se analizó cada sitio web a criterio del evaluador y en ayuda de algunas herram
 Para este estudio se utilizaron herramientas como PageSpeed Insights de Google para medir el estado de velocidad de carga de los sitios web y medir la experiencia de usuario que este la birnda al cliente. 
 También se uso una herramienta llamada Built With, la cual nos brinda datos importantes sobre la tecnologías que han sido usadas en el desarrollo y publicación de este sitio. Datos como tipo de servidor, certificados, CMS, Librerías referenciadas y todo tipo de elementos que este sitio usa actualmente.
 
+Después de haber hecho este estudio se procede con la búsqueda de la plantilla idonea que cumpla con las necesidades encontradas. 
+Una vez se hace la elección de esta se procede a realizar el mockup adaptando la plantilla al estilo gráfico que vaya con la identidad de marca de Taller de Edición, logrando un ejemplo de como sería el resultado final gráficamente del sitio web.
+
