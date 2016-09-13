@@ -1,6 +1,6 @@
 # Taller de Edición
 
-En este proyecto se trabajará en la construcción de un sitio web que satisfaga la necesidades en cuanto a arquitectura de la información y estilo gráfico qu el cliente en este caso taller de edición necesita para mostrar su portafolio de servicios a través de una forma digital, logrando así tener un alcnace mayor con su público objetivo.
+En este proyecto se trabajará en la construcción de un sitio web que satisfaga la necesidades en cuanto a arquitectura de la información y estilo gráfico que el cliente en este caso Taller de Edición necesita para mostrar su portafolio de servicios a través de una forma digital, logrando así tener un alcnace mayor con su público objetivo.
 
 Para esto se inicio realizando un benchmarking donde se estudio algunos sitios web de referentes de empresas que hacen parte del mismo sector comercial al que pertenece taller de edición.
 
