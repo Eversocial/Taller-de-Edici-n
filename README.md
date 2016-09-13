@@ -24,7 +24,10 @@ Mockup: Es un boceto del desarrollo de una página web o el diseño de una inter
 CMS: (Content Management System) Sistema que nos permite gestionar contenidos. Nos permitiría administrar contenidos en un medio digital y para este caso gestionar los contenidos de una web. Controlando una o varias bases de datos donde se aloja el contenido del sitio, haciendo posible la fácil y controlada publicación en el sitio.
 
 Librería: Una librería es un conjunto de recursos, que contiene funciones que permiten realizar determinadas operaciones que optimiza tiempo y recursos en el momento de programar.
+Las librerías más usadas que encontramos en los sitios que analizamos son: jQuery, jQuery UI,  jQuery Masonry, Modernizr
 
 Web server: La función principal es enviar páginas web sobre la petición de los clientes. Esto significa la entrega de los documentos HTML y cualquier contenido adicional que pueda ser incluido en un documento, como imágenes , hojas de estilo y scripts. Un cliente inicia la comunicación mediante una solicitud de un recurso específico a través de HTTP y el servidor responde con el contenido de ese recurso o un mensaje de error si no puede hacerlo.
 
 Certificados: Son una medida de confianza adicional para las personas que visitan y hacen transacciones en su página web. El significado más preciso de un certificado de seguridad es que con él logramos que los datos personales sean encriptados y así imposibilitar que sean interceptados por otro usuario. Las ventajas de este sistema las podemos ver fácilmente, ya que si es seguro, podemos medir la confianza de nuestro sitio en cuanto al volumen de ventas en línea.
+
+
